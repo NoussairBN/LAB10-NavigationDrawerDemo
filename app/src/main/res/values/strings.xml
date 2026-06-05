@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationDrawerDemo</string>
+    <string name="navigation_drawer_open">Ouvrir le menu de navigation</string>
+    <string name="navigation_drawer_close">Fermer le menu de navigation</string>
+
+    <!-- Menu Titles -->
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_stats">System Stats</string>
+    <string name="menu_logs">Logs &amp; Events</string>
+</resources>
