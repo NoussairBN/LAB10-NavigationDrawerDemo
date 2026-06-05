@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/d433365a-b671-4176-a3cf-01b04dcca817
+
+
+
+https://github.com/user-attachments/assets/e5ddb79b-a2c5-4117-ba4c-08c643dac4f9
+
 # NavigationDrawerDemo - System Dashboard
 
 ## Présentation du Projet
@@ -22,6 +30,8 @@ La vidéo de démonstration se trouve dans le dossier local du projet :
 
 
 
+
+https://github.com/user-attachments/assets/db64e9f3-49f1-4363-9b0c-b2062a8c25f9
 
 
 
