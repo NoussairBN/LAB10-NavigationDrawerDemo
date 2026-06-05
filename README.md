@@ -1,11 +1,3 @@
-
-
-https://github.com/user-attachments/assets/d433365a-b671-4176-a3cf-01b04dcca817
-
-
-
-https://github.com/user-attachments/assets/e5ddb79b-a2c5-4117-ba4c-08c643dac4f9
-
 # NavigationDrawerDemo - System Dashboard
 
 ## Présentation du Projet
