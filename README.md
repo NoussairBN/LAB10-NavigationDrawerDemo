@@ -18,9 +18,6 @@ L'application a été personnalisée avec un thème **"System Dashboard"** offra
 3.  **Logs & Events** : Un `ListFragment` affichant les derniers événements système avec un code couleur personnalisé.
 
 ## Démonstration du Projet
-La vidéo de démonstration se trouve dans le dossier local du projet :
-
-
 
 
 https://github.com/user-attachments/assets/db64e9f3-49f1-4363-9b0c-b2062a8c25f9
